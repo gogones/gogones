@@ -30,4 +30,4 @@ I am a Web Developer enthusiast
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=gogones&theme=gotham)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=gogones&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=gogones)](https://github.com/anuraghazra/github-readme-stats)
